@@ -1,2 +1,2 @@
-# Simen-Say-Game
-This is a popular game called Simen Say Game
+# Simon-Say-Game
+This is a popular game called Simon Say Game
